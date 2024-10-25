@@ -44,7 +44,7 @@ If you want to help this project grow but don't know where to start, check out [
 
 Notes:
 
-- It is not a goal to become a collection of icons for as much use cases as possible. There are specific criteria for icon data to be included as built-in in each category (see `:h MiniIcons.get()`). The main supported category is "filetype".
+- It is not a goal to become a collection of icons for as many use cases as possible. There are specific criteria for icon data to be included as built-in in each category (see `:h MiniIcons.get()`). The main supported category is "filetype".
 
 Recommendations for plugin authors using 'mini.icons' as a dependency:
 
